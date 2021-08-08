@@ -10,3 +10,4 @@ For each branch, Jenkins will create a separate pipeline from the Jenkinsfile, a
 Note that I was able to have avoid multiple problems with flow by specifying the _Wipe out repository & force clone_ additional behaviour for the job. 
 one line added
 SECOND LINE ADDED
+three line added in pipeline scripted
